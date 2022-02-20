@@ -22,6 +22,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
 
 ---
+
+<h3 align="center">Currently Learning</h3>
+
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
+
+---
+
 <h3 align="center">Projects</h3>
 
 | Project  | Download |
