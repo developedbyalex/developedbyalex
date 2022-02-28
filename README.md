@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there! I'm Alex 👋</h3>
 <p align="center">
-  <a href="https://developedbyalex.com">Website</a> •
+  <a href="https://developedbyalex.com">Website</a>
 </p>
 
 ---
