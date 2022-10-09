@@ -8,7 +8,7 @@
 
 🏠 I'm from the United Kingdom <br/>
 👨‍💻 I’m self employed as a Web Developer.<br/>
-🌱 My current project is [f1info.app](https://f1info.app/).<br/>
+🌱 My current project is [motorsportsinfo.app](https://motorsportsinfo.app/).<br/>
 
 ---
 
