@@ -28,5 +28,4 @@
 
 <h3 align="center">Cool Stats</h3>
 
-![Visits Badge](https://badges.pufler.dev/visits/developedbyalex/developedbyalex)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developedbyalex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
