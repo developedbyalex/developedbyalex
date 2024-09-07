@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Java** </3
 
-- 👨‍💻 All of my projects are available at [developedbyalex.com](developedbyalex.com)
+- 👨‍💻 All of my projects are available at [Byalex.gg](https://byalex.gg)
 
-- 💬 Ask me about **life, Formula 1 and aviation**
+- 💬 Ask me about **Formula 1 and aviation**
 
-- 📫 How to reach me **contact@developedbyalex.com**
+- 📫 How to reach me **email@byalex.gg**
 
 - ⚡ Fun fact **Did you know that the first computer programmer was a woman named Ada Lovelace? In the mid-1800s, she wrote an algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. This makes her the world's first programmer!**
 
