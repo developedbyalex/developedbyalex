@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://anuraghazra.github.io">
-    <img width="80%" alt="Hello, I'm Alex. I do open source!" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
-
 - 🔭 **Current Project:** [motorsportinfo.app](https://motorsportinfo.app)
 - 👨‍💻 **Portfolio:** All my projects are available at [Byalex.gg](https://byalex.gg)
 - 💬 **Ask me about:** Formula 1 and aviation
