@@ -1,5 +1,4 @@
 <h1 align="center">Hello there! 👋 I'm Alex</h1>
-<h3 align="center">A passionate Frontend Developer from the UK</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developedbyalex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
