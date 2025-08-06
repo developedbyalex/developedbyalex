@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🔭 **Current Project:** [motorsportsinfo.app](https://motorsportsinfo.app/)
+- 🔭 **Current Project:** [mcrep.gg](https://mcrep.gg/)
 - 👨‍💻 **Portfolio:** All my projects are available at [Byalex.gg](https://byalex.gg)
 - 💬 **Ask me about:** Formula 1 and aviation
 - 📫 **Contact me:** email@byalex.gg
